@@ -1,5 +1,5 @@
 """
-New Mexico has precinct-level Excel files for the 2014 elections 
+Colorado precinct-level csv files for a variety of elections 
  are available on Github at https://github.com/openelections/openelections-data-co.
 """
 from os.path import join
